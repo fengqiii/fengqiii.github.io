@@ -42,7 +42,12 @@
     <content><![CDATA[<h1 id="触控板"><a href="#触控板" class="headerlink" title="触控板"></a>触控板</h1><ul>
 <li><p>双指上下左右滑动</p>
 </li>
-<li><p>三指——同alt+tab：多任务窗口切换</p>
+<li><p>三指</p>
+<ul>
+<li>左右滑：同alt+tab——多任务窗口切换</li>
+<li>上滑：同win+tab——多任务视图</li>
+<li>下滑：同win+M，最小化所有应用</li>
+</ul>
 </li>
 <li><p>四指——同win+ctrl+→/←，切换虚拟桌面</p>
 </li>
