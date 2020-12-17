@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>悬息</title>
+  <title>同志，你好</title>
   
   
   <link href="https://fengqiii.github.io/atom.xml" rel="self"/>
@@ -94,21 +94,18 @@
   </entry>
   
   <entry>
-    <title>指南|建站留念</title>
+    <title>指南|建站留念|转用notion了</title>
     <link href="https://fengqiii.github.io/2020/12/04/%E5%BB%BA%E7%AB%99%E7%95%99%E5%BF%B5/"/>
     <id>https://fengqiii.github.io/2020/12/04/%E5%BB%BA%E7%AB%99%E7%95%99%E5%BF%B5/</id>
     <published>2020-12-04T02:10:31.000Z</published>
-    <updated>2020-12-05T05:49:55.527Z</updated>
+    <updated>2020-12-17T13:43:30.867Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;「书籍推荐」是作为激励我阅读的一个长期工程，目前我感兴趣的是社科类，因为用kinde读而且喜欢azw3格式，所以对于我分享的书籍，都是用epub、azw3、mobi格式都有的。&lt;/p&gt;
-&lt;p&gt;经过我的尝试，有以下几种分享的途径：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;百度网盘共享文件夹</summary>
+    <summary type="html">&lt;p&gt;新鲜劲过了后，就觉得少了点意思，现在用notion做为blog平台了，省心省力，就是被别人发现的机会更少了，即使我开启了全网公开，域名我也没修改成功，不太方便推广，但本着方便自己的原则，我是为自己记录，所以不想将就了，notion除了对中文字体支持不是很好，其他功能都没的说</summary>
         
       
     
